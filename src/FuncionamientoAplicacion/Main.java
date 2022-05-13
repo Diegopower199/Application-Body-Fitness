@@ -87,7 +87,6 @@ public class Main  {
 		fin = System.nanoTime();
 
 		System.out.println("TIEMPO: " + (double) (fin- inicio) + " segundos");
-		System.out.println("Actualizado en github");
 
 		new PanelUsuarioContrasena();
 		
